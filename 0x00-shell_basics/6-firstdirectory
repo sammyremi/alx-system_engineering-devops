@@ -1,5 +1,3 @@
 #!/bin/bash
-cd ~
-cd ..
-cd tmp
+cd /tmp
 mkdir my_first_directory
