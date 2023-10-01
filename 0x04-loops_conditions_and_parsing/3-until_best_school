@@ -1,9 +1,9 @@
 #!/usr/bin/env bash
 # prints "Best School" 10 times using until loop
 
-x=0
+i=0
 
-until ((x == 10)); do
+until ((i == 10)); do
 	echo "Best School"
-	((x++))
+	((i++))
 done

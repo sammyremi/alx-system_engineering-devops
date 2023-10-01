@@ -1,9 +1,9 @@
 #!/usr/bin/env bash
 # This script displays Best School 10x using while loop
 
-x=0
+i=0
 
-while ((x < 10)); do
+while ((i < 10)); do
 	echo "Best School"
-	((x++))
+	((i++))
 done
